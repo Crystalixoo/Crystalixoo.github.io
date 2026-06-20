@@ -1,2 +1,2 @@
-# crystalixoo.github.io
+# Crystalixoo.github.io
 buildy
